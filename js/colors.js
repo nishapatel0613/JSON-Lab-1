@@ -1,4 +1,4 @@
-varvar colorsArray = {
+var colorsArray = {
     colors : [
         {
             name:"green",
@@ -17,7 +17,7 @@ varvar colorsArray = {
             red: 192,
             green: 46,
             blue: 35,
-        }
+        },
         {
             name:"blue",
             red: 19,
@@ -29,5 +29,6 @@ varvar colorsArray = {
             red= 253,
             green= 92,
             blue= 48,
-        },
+        }
     ]
+}
